@@ -1,16 +1,46 @@
-### Hi there 👋
+<p align='center'>
+  <b>🔭 FLAWZ"RCΛ GITHUB PAGE</b><br>
+  <a href="https://discord.gg/g4NeWbVFgS">Discord</a> |
+</p>
 
-<!--
-**FlawzOfficial/FlawzOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><br>
+  <a href="https://github.com/FlawzOfficial">
+    <img src="https://discord.c99.nl/widget/theme-1/819563526103629824.png"/>
+     </a>
+</p>
 
-Here are some ideas to get you started:
+--- 
+#
+```diff
+ 💬 > 14 years old, french developper.
+ ✔️ > Rien est impossible il suffit juste de trouver la solution.
+```
+#
+```
+✨ > Github  : https://github.com/FlawzOfficial
+```
+#
+```
+>~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+>
+🐍 > Python                 - Dev level => 2/10
+🌐 > Html / Css / Js / Php  - Dev level => 1/10
+🌌 > Csharp                 - Dev level => 6/10
+🌟 > JavaScript             - Dev level => 4/10
+🌌 > C++                    - Dev level => 8/10
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+>~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+```
+#
+```
+- 👀 > Owner on secret project
+- ❤️ > Passionate of created Interface, Developement etc...
+```
+
+Contact me:
+- Discord: `Flawz"RCΛ#1337`
+- Server: <p><a href="https://discord.gg/g4NeWbVFgS" target="_blank" rel="nofollow noopener"><img src="https://discordapp.com/api/guilds/842765589557805098/widget.png?style=banner2" alt="Discord" /></a></p>
+
+<br><br>
+<p align="center">
