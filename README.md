@@ -40,7 +40,6 @@
 
 Contact me:
 - Discord: `Flawz"RCΛ#1337`
-- Server: <p><a href="https://discord.gg/g4NeWbVFgS" target="_blank" rel="nofollow noopener"><img src="https://discordapp.com/api/guilds/842765589557805098/widget.png?style=banner2" alt="Discord" /></a></p>
 
 <br><br>
 <p align="center">
